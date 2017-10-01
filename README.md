@@ -1,2 +1,5 @@
 # Hello-world
-new repository
+
+Hi!
+
+I'm Brandon and i'm learning about GitHub.
